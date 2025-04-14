@@ -103,3 +103,7 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+#logo {
+    width: 100px;  /* Puoi cambiare questa misura */
+    height: auto;
+}
