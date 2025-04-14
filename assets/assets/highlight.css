@@ -1,0 +1,35 @@
+/* Highlight.js Default Theme */
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 1em;
+  background: #1e1e1e;
+  color: #dcdcdc;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-literal,
+.hljs-section,
+.hljs-link {
+  color: #569CD6;
+}
+
+.hljs-function .hljs-title,
+.hljs-title {
+  color: #dcdcaa;
+}
+
+.hljs-string,
+.hljs-meta .hljs-string {
+  color: #ce9178;
+}
+
+.hljs-number {
+  color: #b5cea8;
+}
+
+.hljs-comment {
+  color: #6a9955;
+  font-style: italic;
+}
