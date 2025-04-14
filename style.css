@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #0d0d0d;
+  color: #f0f0f0;
+  font-family: 'Georgia', serif;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+a {
+  color: #67c1f5;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  margin-top: 1rem;
+}
